@@ -48,8 +48,8 @@
 * Harry Potter e la pietra filosofale by J. K. Rowling {Personally recommended by H.M. in 2015. While recommended in English, I'll read it in Italian to practice the language}
 
 ### Non-Fiction -- Instructive
+* [48% done] The Design of Everyday Things by Donald ("Don") Norman {Recommended on Coursera's HCI course I took several years ago}
 * [35% done] How To Win Friends and Influence People by Dale Carnegie {Personally recommended by M.Y. in 2015}
-* [32% done] The Design of Everyday Things by Donald ("Don") Norman {Recommended on Coursera's HCI course I took several years ago}
 * Rocket Surgery Made Easy by Steve Krug {Probably advertised within "Don't Make Me Think"}
 * Moonwalking with Einstein by Joshua Foer {Mentioned in passing by M.C. in late 2015}
 * Mindset: The New Psychology of Success by Carol Dweck {Advocated by Khan Academy and recommended on Gates Notes blog}
