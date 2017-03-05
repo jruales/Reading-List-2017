@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Reading List 2016](#reading-list-2016)
+- [Reading List 2017](#reading-list-2017)
   - [Books](#books)
     - [Fiction](#fiction)
     - [Non-Fiction -- Instructive](#non-fiction----instructive)
@@ -33,7 +33,7 @@
 <!-- doctoc . -->
 
 
-# Reading List 2016
+# Reading List 2017
 
 
 
@@ -42,16 +42,12 @@
 ## Books
 
 ### Fiction
-* [100% done on May 20, 2016] Flatland: A romance of many dimensions by Edwin A. Abbott {Personally recommended by G.C. 🦀 many years ago}
-* [100% done on Nov 1, 2016]  {Personally recommended by an employee on a brick-and-mortar Amazon bookstore, after he saw I was about to buy "Understanding Comics"}
 * [4% done] Ready Player One by Ernest Cline {Recommended on Andrej Karpathy's Goodreads reviews}
 * El héroe discreto by Mario Vargas Llosa {Personally recommended by C.S. in early 2016 to enrich my Spanish vocabulary and syntax}
 * The Goldfinch by Donna Tartt {Personally recommended by H.M.}
 * Harry Potter e la pietra filosofale by J. K. Rowling {Personally recommended by H.M. in 2015. While recommended in English, I'll read it in Italian to practice the language}
 
 ### Non-Fiction -- Instructive
-* [100% done on March 20th] Understanding Comics: The Invisible Art by Scott McCloud {Recommended on Bret Victor's website, I found out about it in early 2016}
-* [100% done on October 14] Don't Make Me Think: A Common Sense Approach to Web Usability by Steve Krug {Recommended on Coursera's HCI course?}
 * [35% done] How To Win Friends and Influence People by Dale Carnegie {Personally recommended by M.Y. in 2015}
 * [32% done] The Design of Everyday Things by Donald ("Don") Norman {Recommended on Coursera's HCI course I took several years ago}
 * Rocket Surgery Made Easy by Steve Krug {Probably advertised within "Don't Make Me Think"}
@@ -60,8 +56,6 @@
 * Barron's AP Biology by Deborah T. Goldberg
 
 ### Biographical/Historical
-* [100% done on June 4th] "Logicomix": An Epic Search For Truth by Apostolos Doxiadis and Christos H. Papadimitriou with art by Alecos Papadatos and Annie Di Donna
-* [100% done on February 15th] "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character by Richard Feynman {Recommended on Andrej Karpathy's Goodreads reviews}
 * Buffett: The Making of an American Capitalist by Roger Lowenstein {Personally recommended by M.C. in late 2015}
 * The Idea Factory: Bell Labs and the Great Age of American Innovation by Jon Gertner {Recommended on Andrej Karpathy's Goodreads reviews}
 
