@@ -129,6 +129,7 @@
 * Richard Socher, Chris Manning and Yoshua Bengio - 2013 - Tutorial: Deep Learning for NLP (without Magic) - http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial
 * Visualizing CNN architectures side by side with mxnet - Joseph Paul Cohen - http://josephpcohen.com/w/visualizing-cnn-architectures-side-by-side-with-mxnet/
 * TensorFlow for Poets by Pete Warden - http://petewarden.com/2016/02/28/tensorflow-for-poets/
+* Learn Tensorflow and Deep Learning without a Ph.D. by Martin Görner https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
 * Theano Tutorial - Colin Raffel - http://nbviewer.jupyter.org/github/craffel/theano-tutorial/blob/master/Theano%20Tutorial.ipynb
 * Blog Series - Christopher Olah - Neural Network Tutorials - http://colah.github.io/
   * Neural Networks (General)
