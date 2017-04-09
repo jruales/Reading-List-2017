@@ -259,7 +259,7 @@
 * Cornell University - Steve Marschner - CS6630 Realistic Image Synthesis
   * Fall 2015: http://www.cs.cornell.edu/Courses/cs6630/2015fa/ 
   * Spring 2012: http://www.cs.cornell.edu/Courses/cs6630/2012sp/
-* Cornell University - David Bindel - CS 4220/5223 + MATH 4260 Numerical Analysis: Linear and Nonlinear Problems - http://www.cs.cornell.edu/~bindel/class/cs4220-s15/
+* Cornell University - Spring 2015 - David Bindel - CS 4220/5223 + MATH 4260 Numerical Analysis: Linear and Nonlinear Problems - http://www.cs.cornell.edu/~bindel/class/cs4220-s15/
 * MIT - Ramesh Raskar - Fall 2009 - MAS.531 / MAS.131 - Computational Camera and Photography - http://ocw.mit.edu/courses/media-arts-and-sciences/mas-531-computational-camera-and-photography-fall-2009/
 * NYU - Jonathan Goodman - Spring 2016 - MATH-GA 2020.001 and CSCI-GA 2421.001 - Numerical Methods II - http://www.math.nyu.edu/faculty/goodman/teaching/NumericalMethodsII2016/index.html
 * NYU - Jonathan Goodman - Fall 2015 - MATH-UA.250.001 - Mathematics of Finance - http://www.math.nyu.edu/faculty/goodman/teaching/MathFin/index.html
