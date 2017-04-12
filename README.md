@@ -179,6 +179,8 @@
 * Microsoft Research NIPS 2015 Videos - http://research.microsoft.com/apps/catalog/default.aspx?t=videos
 * OpenAI Gym - https://gym.openai.com/
 * A gallery of interesting IPython Notebooks - https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
+* No Free Hunch (Kaggle Blog) - http://blog.kaggle.com/
+  * Turorials: http://blog.kaggle.com/category/tutorials/
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
