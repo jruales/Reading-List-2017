@@ -42,6 +42,7 @@
 ## Books
 
 ### Fiction
+* [100% done on 14 May 2017] El curioso incidente del perro a medianoche by Mark Haddon
 * [4% done] Ready Player One by Ernest Cline {Recommended on Andrej Karpathy's Goodreads reviews}
 * El héroe discreto by Mario Vargas Llosa {Personally recommended by C.S. in early 2016 to enrich my Spanish vocabulary and syntax}
 * The Goldfinch by Donna Tartt {Personally recommended by H.M.}
