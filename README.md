@@ -50,7 +50,7 @@
 
 ### Non-Fiction -- Instructive
 * [100% done on 8 April 2017] Learning React by Kirupa Chinnathambi
-* [48% done] The Design of Everyday Things by Donald ("Don") Norman {Recommended on Coursera's HCI course I took several years ago}
+* [60% done] The Design of Everyday Things by Donald ("Don") Norman {Recommended on Coursera's HCI course I took several years ago}
 * [35% done] How To Win Friends and Influence People by Dale Carnegie {Personally recommended by M.Y. in 2015}
 * Rocket Surgery Made Easy by Steve Krug {Probably advertised within "Don't Make Me Think"}
 * Moonwalking with Einstein by Joshua Foer {Mentioned in passing by M.C. in late 2015}
