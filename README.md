@@ -182,6 +182,8 @@
 * A gallery of interesting IPython Notebooks - https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
 * No Free Hunch (Kaggle Blog) - http://blog.kaggle.com/
   * Turorials: http://blog.kaggle.com/category/tutorials/
+* ★★★★★ Introduction to data analytics with pandas - https://github.com/QCaudron/pydata_pandas
+* ★★★★★ A Beginner’s Guide to the True Order of SQL Operations - https://blog.jooq.org/2016/12/09/a-beginners-guide-to-the-true-order-of-sql-operations/
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
