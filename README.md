@@ -232,6 +232,7 @@
 * Texture Synthesis Using Convolutional Neural Networks http://arxiv.org/abs/1505.07376
 * Jump Flooding in GPU with Applications to Voronoi Diagram and Distance Transform - http://www.comp.nus.edu.sg/~tants/jfa.html
 * Understanding Neural Networks Through Deep Visualization by Jason Yosinski, Jeff Clune, Anh Nguyen, Thomas Fuchs, and Hod Lipson - http://yosinski.com/deepvis
+* NIPS 2016 Tutorial: Generative Adversarial Networks by Ian Goodfellow - https://arxiv.org/pdf/1701.00160v4.pdf
 
 ### Publications by Company
 * Adobe Research Publications - http://www.adobe.com/technology/publications.html
