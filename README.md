@@ -48,6 +48,7 @@
 * El héroe discreto by Mario Vargas Llosa {Personally recommended by C.S. in early 2016 to enrich my Spanish vocabulary and syntax}
 * The Goldfinch by Donna Tartt {Personally recommended by H.M.}
 * Harry Potter e la pietra filosofale by J. K. Rowling {Personally recommended by H.M. in 2015. While recommended in English, I'll read it in Italian to practice the language}
+* The Three-Body Problem by Cixin Liu {Personally recommended by S.S. in late 2017}
 
 ### Non-Fiction -- Instructive
 * [100% done on 8 April 2017] Learning React by Kirupa Chinnathambi
