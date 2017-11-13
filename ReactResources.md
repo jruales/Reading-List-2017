@@ -1,8 +1,9 @@
 # React JS Resources
 
 ## React
-* [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+* [Thinking in React](https://reactjs.org/docs/thinking-in-react.html) by Facebook
   * Explains the process of turning a UI mockup into React code. Breaking up the UI into components, keeping state in a common parent component and passing it as props, passing down callback functions to enable inverse data flow.
+* [Simple React Patterns (Dealing With Side-Effects In React)](https://getpocket.com/a/read/1931425942) by Lucas Reis (Zocdoc)
 
 ## Redux
 * [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) by Dan Abramov (co-author of Redux)
