@@ -187,6 +187,7 @@
   * Turorials: http://blog.kaggle.com/category/tutorials/
 * ★★★★★ Introduction to data analytics with pandas - https://github.com/QCaudron/pydata_pandas
 * ★★★★★ A Beginner’s Guide to the True Order of SQL Operations - https://blog.jooq.org/2016/12/09/a-beginners-guide-to-the-true-order-of-sql-operations/
+* The Probability and Statistics Cookbook () - http://statistics.zone/
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
@@ -282,6 +283,7 @@
 * University of California, Berkeley - stat212b Spring 2016 - Topics Course on Deep Learning - https://github.com/joanbruna/stat212b
 * University of California, Berkeley - CS 294: Deep Reinforcement Learning, Spring 2017 - http://rll.berkeley.edu/deeprlcourse/
 * University of Oxford - Nando di Freitas - Machine Learning (includes Neural Networks in Torch, RNNs and LSTMs, Alex Graves's handwritten recognition, variational autoencoders, reinforcement learning) - https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+* University of Notre Dame - Nicholas Zabaras - Statistical Computing for Scientists and Engineers, Fall 2017  - https://www.zabaras.com/statisticalcomputing
 
 ### Taken Before (Review These)
 * Columbia University - Tony Jebara - Machine Learning 4771 - http://www.cs.columbia.edu/~jebara/4771/
